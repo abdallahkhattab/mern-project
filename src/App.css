@@ -3,10 +3,19 @@
 }
 
 .mapDiv{
-  height: 800px;
-  width: 800px;
+  height: 890px;
+  width: 1920px;
   
 }
+.btn1{
+  margin-left: 1255px;
+
+}
+
+.btn2{
+  margin-left: 20px;
+}
+
 
 
 
