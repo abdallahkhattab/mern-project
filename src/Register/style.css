@@ -1,0 +1,26 @@
+.autocomplete-container {
+    position: relative;
+  }
+  
+  .autocomplete-item {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .autocomplete-item.highlighted {
+    background-color: lightgray;
+  }
+  
+  /* Style the input field */
+  .react-autocomplete-input {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  /* Style the search button */
+  button {
+    margin-left: 8px;
+  }
+  
